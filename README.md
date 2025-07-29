@@ -1,1 +1,3 @@
-# notes-nook-v02-125492-125920
+# Project Repository
+
+This is the initial README file for the project.
